@@ -6,9 +6,10 @@
     } 
     h1{
         text-align: left;
-        padding: 20px;
     }
-
+    .recipe{
+        padding-top: 30px;
+    }
     #traditional{
         display: contents;
     }
@@ -30,6 +31,5 @@
     } 
     h1{
         text-align: left;
-        padding: 20px;
     } 
 }

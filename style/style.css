@@ -25,9 +25,10 @@ h3{
 .btn{
     color: white;
     background-color: #F7972E;
-    text-align: center;
-    width: 30px;
-    border-radius: 20%;
+    padding: 10px 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 20px
 }
 /* LAYOUT */
 .container {
@@ -54,6 +55,13 @@ iframe{
 /*****************/
 
 /**RECIPE**/
+.recipe-info{
+    display: flex;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 20px;
+}
 
 #traditional{
     display: none;
