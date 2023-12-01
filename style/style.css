@@ -41,7 +41,11 @@ ul{
 iframe{
     width: 100%;
 }
-/*main*/
+
+/*****************/
+/*******MAIN******/
+/*****************/
+
 
 .info-plate{
     background-color: white;
@@ -49,7 +53,6 @@ iframe{
 }
 .info-kcal{
     background-color: #F6F5F3;
-    max-width: 90%;
     padding: 10px;
 }
     
@@ -67,3 +70,40 @@ iframe{
 .info-recipe{
     padding: 10px;
 }
+
+/*icon social*/
+
+.social-icons{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.social-icons li {
+    width: 50px;
+    height: 40px;
+    background-color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 45%;
+  }
+
+
+/***Colori icone***/
+.social-icons li .fa-facebook {
+    color: #3b5998;
+}
+.social-icons li .fa-twitter {
+    color: #1da1f2; 
+  }
+.social-icons li .fa-instagram {
+    color: #c13584;
+  }
+.social-icons li .fa-pinterest {
+    color: #bd081c;
+  }
+.social-icons li .fa-youtube {
+    color: #ff0000;
+  }
