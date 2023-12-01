@@ -1,0 +1,22 @@
+/*Tablet dai 768px fino a 991px*/
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+    .container{
+    } 
+    h1{
+        text-align: left;
+        padding: 20px;
+    }
+} 
+
+/*Desktop da 992px in poi */
+
+@media screen and (min-width: 992px){
+    .container{
+
+    }
+    h1{
+        text-align: left;
+        padding: 20px;
+    } 
+}
