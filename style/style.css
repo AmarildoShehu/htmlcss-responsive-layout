@@ -110,7 +110,13 @@ iframe{
 }
 
 
-  /*INFO PRESENTATION*/
+/*ADVERTISING*/
+.banner{
+    display: none;
+}
+
+
+/*INFO PRESENTATION*/
 .presentation>h2{
     position: relative;
     display: inline-block;
