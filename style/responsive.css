@@ -1,11 +1,26 @@
 
 /*Tablet dai 768px fino a 991px*/
-@media screen and (min-width: 785px) {
+@media screen and (min-width: 768px) {
     .container{
+        margin: 10px 40px;
     } 
     h1{
         text-align: left;
         padding: 20px;
+    }
+
+    #traditional{
+        display: contents;
+    }
+
+
+
+
+
+
+
+    .faq-card li{
+        flex-basis: calc(100% / 5);
     }
   }
   
