@@ -25,7 +25,13 @@
     }
 
     /*icon social*/
-    
+
+    .social-media{
+        width: auto;
+    }
+    .social-icons li{
+        
+    }
     /*ADVERTISIGS*/
     .banner{
         display: block;
