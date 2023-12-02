@@ -14,7 +14,17 @@
     #traditional{
         display: contents;
     }
+    /*INFO PLATE*/
 
+    #info-box{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        row-gap: 10px;
+        column-gap: 60px;
+    }
+
+    
     /*ADVERTISIGS*/
     .banner{
         display: block;
@@ -23,14 +33,14 @@
 
 
 
-
+    /*FOOTER*/  
     .faq-card li{
         flex-basis: calc(100% / 5);
     }
-  }
+}
   
  /*Desktop da 992px in poi */
-  @media screen and (min-width: 992px) {
+@media screen and (min-width: 992px) {
     .container{
     } 
     h1{
