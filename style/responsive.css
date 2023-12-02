@@ -38,7 +38,10 @@
         display: block;
     }
 
-
+    /*INFO PRESENTATIO*/
+    .presentation p{
+        margin-bottom: 40px;
+    }
 
 
     /*FOOTER*/  
