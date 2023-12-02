@@ -90,13 +90,16 @@ iframe{
 }
 .info-kcal p{
     padding: 10px;
+    margin-bottom: 20px;
 }
 
 .info-recipe{
     padding: 10px;
 }
 
-
+.info-recipe li{
+    margin-bottom: 10px;
+}
 
 /*icon social*/
 
