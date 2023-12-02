@@ -90,11 +90,10 @@ iframe{
 }
 .info-kcal p{
     padding: 10px;
-    margin-bottom: 20px;
 }
 
 .info-recipe{
-    padding: 10px;
+    margin: 25px 5px 0px 5px;
 }
 
 .info-recipe li{
@@ -103,6 +102,10 @@ iframe{
 
 /*icon social*/
 
+.social-media{
+    width: 80%;
+    margin: 15px auto;
+}
 .social-icons{
     display: flex;
     width: 100%;
