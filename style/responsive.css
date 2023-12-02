@@ -30,8 +30,9 @@
         width: auto;
     }
     .social-icons li{
-        
+        padding: 10px 50px;
     }
+
     /*ADVERTISIGS*/
     .banner{
         display: block;

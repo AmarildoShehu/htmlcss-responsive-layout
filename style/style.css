@@ -113,14 +113,13 @@ iframe{
 }
 
 .social-icons li {
-    width: 50px;
-    height: 40px;
+    padding: 10px 20px;
     background-color: white;
 
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 45%;
+    border-radius: 20px;
 }
 
 /***icon color***/
