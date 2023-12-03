@@ -25,7 +25,7 @@
         flex-direction: row;
         flex-wrap: wrap;
         row-gap: 10px;
-        column-gap: 60px;
+        column-gap: 50px;
     }
 
     /*icon social*/
@@ -49,10 +49,16 @@
     }
 
     /*INFO PRESENTATIO*/
-    .presentation p{
-        margin-bottom: 40px;
+    .img-tiramisu {
+        width: 40%;
+        float: left;
+        margin-right: 20px; 
     }
 
+    .presentation p {
+        text-align: justify;
+        margin-bottom: 40px; 
+    }
 
     /*FOOTER*/  
     .faq-card li{
@@ -97,4 +103,8 @@
     .social-icons li{
         padding: 10px 30px
     }
+
+    /*INFO PRESENTATION*/
+
+   
 }
