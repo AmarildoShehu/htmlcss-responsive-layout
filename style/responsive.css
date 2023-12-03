@@ -106,5 +106,28 @@
 
     /*INFO PRESENTATION*/
 
+    /*FOOTER*/
+    footer{
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+    }
    
+    .addres-card{
+        text-align: left;
+        padding: 10px;
+    }
+
+    .faq-card{
+        flex-basis: 40%;
+        width: 100%;
+        margin: 0;
+        padding: 40px;
+    }
+    .faq-card ul{
+        padding-bottom: 35px;
+        text-align: center;
+        align-items: center;
+        flex-wrap: nowrap; 
+    }
 }
