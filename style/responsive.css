@@ -16,6 +16,10 @@
     }
     /*INFO PLATE*/
 
+    .info-recipe{
+        width: 90%;
+        margin: 30px auto;
+    }
     #info-box{
         display: flex;
         flex-direction: row;
@@ -65,12 +69,23 @@
         align-items: center;
         padding: none;
     }
-   
+   .info-kcal{
+    width: 80%;
+   }
+
     .youtube-video{
         flex-basis: 70%;
     }
     .row{
+        margin-top: 0px;
         flex-basis: 30%;
-        padding: 30px;
+    }
+    .info-recipe{
+        width: 80%;
+        margin: 10px auto;
+    }
+
+    #info-box{
+        padding-bottom: 0px;
     }
 }

@@ -93,7 +93,11 @@ iframe{
 }
 
 .info-recipe{
-    margin: 25px 5px 0px 5px;
+    width: 90%;
+    margin: 20px auto;}
+
+#info-box{
+    padding-bottom: 20px;
 }
 
 .info-recipe li{
