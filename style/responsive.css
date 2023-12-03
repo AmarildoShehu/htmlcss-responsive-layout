@@ -88,4 +88,13 @@
     #info-box{
         padding-bottom: 0px;
     }
+
+    /*icon social*/
+
+    .icon-text{
+        display: block;
+    }
+    .social-icons li{
+        padding: 10px 30px
+    }
 }

@@ -126,20 +126,24 @@ iframe{
     border-radius: 20px;
 }
 
+.icon-text{
+    display: none;
+}
+
 /***icon color***/
-.social-icons li .fa-facebook {
+.fa-facebook {
     color: #3b5998;
 }
-.social-icons li .fa-twitter {
+.fa-twitter {
     color: #1da1f2; 
 }
-.social-icons li .fa-instagram {
+.fa-instagram {
     color: #c13584;
 }
-.social-icons li .fa-pinterest {
+.fa-pinterest {
     color: #bd081c;
 }
-.social-icons li .fa-youtube {
+.fa-youtube {
     color: #ff0000;
 }
 
