@@ -111,21 +111,25 @@
         display: flex;
         justify-content: space-between;
         align-items: baseline;
+       padding: 20px;
     }
    
     .addres-card{
         text-align: left;
-        padding: 10px;
+        padding: none;
+        flex-basis: 70%;
+        font-size: 12px;
     }
 
     .faq-card{
         flex-basis: 40%;
         width: 100%;
         margin: 0;
-        padding: 40px;
+        padding: none;
     }
     .faq-card ul{
-        padding-bottom: 35px;
+        font-size: 10px;
+        padding-bottom: none;
         text-align: center;
         align-items: center;
         flex-wrap: nowrap; 
