@@ -27,7 +27,13 @@
     /*icon social*/
 
     .social-media{
-        width: auto;
+            width: 90%;
+    }
+
+    .social-icons{
+        display: flex;
+        justify-content: space-between;
+
     }
     .social-icons li{
         padding: 10px 50px;
@@ -52,7 +58,19 @@
   
  /*Desktop da 992px in poi */
 @media screen and (min-width: 992px) {
-    .container{
-    } 
-
+   
+    /*INFO PLATE*/
+    .info-plate{
+        display: flex;
+        align-items: center;
+        padding: none;
+    }
+   
+    .youtube-video{
+        flex-basis: 70%;
+    }
+    .row{
+        flex-basis: 30%;
+        padding: 30px;
+    }
 }
